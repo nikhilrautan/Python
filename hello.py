@@ -1,4 +1,4 @@
 print("Hello World")
-def chai(n):
+def number(n):
     print(n)
-chai("4")
+number("4")
